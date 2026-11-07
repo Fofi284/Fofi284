@@ -21,7 +21,7 @@ Soy Sara Prada, estudiante de programación desde Colombia 🇨🇴.
 
 🎀 Un poquito de mi personalidad
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="220" alt="Animación de trabajo"/>
+
 
 "Aprender, crear, experimentar y nunca dejar de descubrir." 💜
 
